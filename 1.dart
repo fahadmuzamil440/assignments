@@ -1,8 +1,7 @@
 void main() {
-  
-  int length = 5;  
-  int breadth = 5; 
-  
+  int length = 5;
+  int breadth = 5;
+
   if (length == breadth) {
     print("The shape is a Square.");
   } else {
